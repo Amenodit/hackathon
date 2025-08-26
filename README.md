@@ -1,4 +1,4 @@
-# hackathon
+# Hackathon
 
 # Diabetic Health Tracking App
 
