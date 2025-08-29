@@ -32,4 +32,4 @@ Our app offers a comprehensive platform for manually logging blood glucose readi
 - Integrate Azure Cosmos DB backend
 - Implement data visualization and reporting
 
----
+---------
